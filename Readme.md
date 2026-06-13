@@ -1,6 +1,6 @@
-# 🛍️ Vrinda Store Sales Analysis 2022
+#  Vrinda Store Sales Analysis 2022
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Vrinda Store Sales Analysis 2022** project is an Excel-based Data Analytics project focused on analyzing customer orders, sales performance, product categories, customer demographics, and sales channels.
 
@@ -27,7 +27,7 @@ This project helps understand:
 
 ---
 
-# 📂 Dataset Information
+#  Dataset Information
 
 ## Dataset Details
 
@@ -41,7 +41,7 @@ This project helps understand:
 
 ---
 
-# 📑 Columns Description
+#  Columns Description
 
 | Column Name | Description                      |
 | ----------- | -------------------------------- |
@@ -63,7 +63,7 @@ This project helps understand:
 
 ---
 
-# 📊 Sheet-by-Sheet Analysis
+#  Sheet-by-Sheet Analysis
 
 ## 1️⃣ Sales vs Orders Analysis
 
@@ -140,7 +140,7 @@ Amazon generated the highest percentage of total orders.
 
 ---
 
-# 📈 Dashboard Features
+# Dashboard Features
 
 The project dashboard includes:
 
@@ -154,7 +154,7 @@ The project dashboard includes:
 
 ---
 
-# 🛠️ Tools & Technologies Used
+#  Tools & Technologies Used
 
 ## Microsoft Excel
 
@@ -171,7 +171,7 @@ The project dashboard includes:
 
 ---
 
-# 🎯 Business Problems Solved
+#  Business Problems Solved
 
 This project answers several important business questions:
 
@@ -184,7 +184,7 @@ This project answers several important business questions:
 
 ---
 
-# 💡 Key Business Insights
+#  Key Business Insights
 
 * Women customers contribute more than 60% of total revenue.
 * Adult customers are the primary buyers.
@@ -195,7 +195,7 @@ This project answers several important business questions:
 
 ---
 
-# 🚀 Project Outcome
+#  Project Outcome
 
 This project demonstrates practical skills in:
 
@@ -216,7 +216,7 @@ The analysis helps businesses improve:
 
 ---
 
-# 🔮 Future Enhancements
+#  Future Enhancements
 
 Future improvements that can be added:
 
@@ -229,7 +229,7 @@ Future improvements that can be added:
 
 ---
 
-# 🏆 Skills Demonstrated
+#  Skills Demonstrated
 
 * Data Analytics
 * Excel Dashboarding
@@ -241,7 +241,7 @@ Future improvements that can be added:
 
 ---
 
-# ✅ Conclusion
+#  Conclusion
 
 The **Vrinda Store Sales Analysis 2022** project showcases how raw retail sales data can be transformed into actionable business insights using Microsoft Excel.
 
@@ -251,7 +251,7 @@ This project is highly useful for beginners and aspiring Data Analysts to demons
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 ## K. Shayam Son
 
